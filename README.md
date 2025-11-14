@@ -27,6 +27,8 @@ Supported Stocks
 
 How to Run
 
+The Application I used Visual Studio
+
 . Download or clone this repository:
 https://github.com/Udi-th-m/project.git
 
