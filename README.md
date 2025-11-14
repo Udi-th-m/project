@@ -25,3 +25,34 @@ Supported Stocks
 . META  
 . NVDA
 
+How to Run
+
+. Download or clone this repository:
+https://github.com/Udi-th-m/project.git
+
+. Open the project folder:
+cd C:\Users\nambi\Desktop\Assignment2
+
+Open Assignment.js and Dashboard.html in your browser.
+
+Login with an email (example: user1@example.com).
+
+Open another browser tab with the same file.
+
+Login using a different email (example: user2@example.com).
+
+Subscribe each user to different stocks.
+
+Watch both dashboards update live and independently
+
+▶️ Run or Debug the Program
+After opening the file, you can run or debug the program directly in your browser.
+If you make changes to the code, save the file and refresh the page to see the updates.
+
+📄 License
+
+This project is open-source and free to use.
+
+file:///C:/Users/nambi/Desktop/Assignment2-repo/dashboard.html
+
+
